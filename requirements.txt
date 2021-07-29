@@ -11,16 +11,18 @@ bleach=3.3.0=pyhd3eb1b0_0
 boruta_py=0.3=py_0
 bottleneck=1.3.2=py39h7cc1a96_1
 brotlipy=0.7.0=py39h2bbff1b_1003
-ca-certificates=2021.7.5=haa95532_1
+ca-certificates=2020.10.14=0
 certifi=2021.5.30=py39haa95532_0
 cffi=1.14.6=py39h2bbff1b_0
 chardet=4.0.0=py39haa95532_1003
+click=8.0.1=pyhd3eb1b0_0
 colorama=0.4.4=pyhd3eb1b0_0
 cryptography=3.4.7=py39h71e12ea_0
 cycler=0.10.0=py39haa95532_0
 decorator=5.0.9=pyhd3eb1b0_0
 defusedxml=0.7.1=pyhd3eb1b0_0
 entrypoints=0.3=py39haa95532_0
+flask=1.1.2=py_0
 freetype=2.10.4=hd328e21_0
 icc_rt=2019.0.0=h0cc432a_1
 icu=58.2=ha925a31_3
@@ -32,6 +34,7 @@ intel-openmp=2021.2.0=haa95532_616
 ipykernel=5.3.4=py39h7b7c402_0
 ipython=7.22.0=py39hd4e2768_0
 ipython_genutils=0.2.0=pyhd3eb1b0_1
+itsdangerous=2.0.1=pyhd3eb1b0_0
 jedi=0.17.2=py39haa95532_1
 jinja2=3.0.1=pyhd3eb1b0_0
 joblib=1.0.1=pyhd8ed1ab_0
@@ -118,6 +121,7 @@ vc=14.2=h21ff451_1
 vs2015_runtime=14.27.29016=h5e58377_2
 wcwidth=0.2.5=py_0
 webencodings=0.5.1=py39haa95532_1
+werkzeug=1.0.1=pyhd3eb1b0_0
 wheel=0.36.2=pyhd3eb1b0_0
 win_inet_pton=1.1.0=py39haa95532_0
 wincertstore=0.2=py39h2bbff1b_0
