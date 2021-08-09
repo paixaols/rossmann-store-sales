@@ -49,13 +49,13 @@ Tests were performed using different algorithms, including linear and non-linear
 
 # 5. Machine learning model performance
 
-The model chosen was XGBoost. The tuned model presented a Mean Absolute Percentage Error (MAPE) of 9%.
+The model chosen was XGBoost. After fine tuning its parameters, the model presented a Mean Absolute Percentage Error (MAPE) of 9%.
 
-# 6. Business results
-
-The model retrieves daily sales forecast for each store. The figure below compares the prediction against the actual sales for the test dataset
+The model retrieves daily sales forecast for each store. The figure below compares the overall daily prediction against the actual sales for the test dataset.
 
 ![](img/Prediction.png)
+
+# 6. Business results
 
 The total sales volume predicted for the 6 weeks period is summarized in the table below:
 
