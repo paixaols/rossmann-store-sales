@@ -64,3 +64,9 @@ The total sales volume predicted for the 6 weeks period is summarized in the tab
 | Prediction     | 282.4             |
 | Worst scenario | 281.7             |
 | Best scenario  | 283.2             |
+
+# 7. Data product
+
+The final model is hosted at heroku and accessible via API. A telegram bot can make requests to the API and retrieve the 6-week consolidated prediction for each store. The image below shows a screenshot of the bot.
+
+![](img/BotScreenshot.png)
